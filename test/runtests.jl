@@ -1,4 +1,4 @@
 # src/runtests.jl
-# Test Suite for {PROJECT_NAME}
+# Test Suite for BoundedRationals
 
-using {PROJECT_NAME}
+using BoundedRationals
