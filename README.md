@@ -10,7 +10,7 @@
 [![Formatting](https://img.shields.io/badge/format-tab%204%20margin%2096-888)](https://github.com/domluna/JuliaFormatter.jl)
 [![GitHub Repo](https://img.shields.io/badge/repo-GitHub-black)](https://github.com/bhgomes/BoundedRationals.jl)
 
-_Rational Numbers with Bounded Numerators/Denominators_
+_Rational Numbers with Bounded Denominators_
 
 </div>
 
