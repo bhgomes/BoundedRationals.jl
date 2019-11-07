@@ -11,6 +11,6 @@ See https://github.com/bhgomes/BoundedRationals.jl for more details.
 """
 module BoundedRationals
 
-
+include("core.jl")
 
 end  # module BoundedRationals
