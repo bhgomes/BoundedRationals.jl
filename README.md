@@ -2,13 +2,11 @@
 
 # BoundedRationals.jl
 
-[![Stable Docs](https://img.shields.io/badge/docs-stable-blue.svg)](https://bhgomes.github.io/BoundedRationals.jl/stable)
-[![Latest Docs](https://img.shields.io/badge/docs-latest-blue.svg)](https://bhgomes.github.io/BoundedRationals.jl/latest)
-[![Travis Build Status](https://travis-ci.com/bhgomes/BoundedRationals.jl.svg?branch=master)](https://travis-ci.com/bhgomes/BoundedRationals.jl)
-[![Build status](https://ci.appveyor.com/api/projects/status/06ijwqd762lkw1u6?svg=true)](https://ci.appveyor.com/project/bhgomes/boundedrationals-jl)
-[![Coverage Status](https://coveralls.io/repos/github/bhgomes/BoundedRationals.jl/badge.svg?branch=master)](https://coveralls.io/github/bhgomes/BoundedRationals.jl?branch=master)
-[![Formatting](https://img.shields.io/badge/format-tab%204%20margin%2096-888)](https://github.com/domluna/JuliaFormatter.jl)
-[![GitHub Repo](https://img.shields.io/badge/repo-GitHub-black)](https://github.com/bhgomes/BoundedRationals.jl)
+[![Stable Docs](https://img.shields.io/badge/docs-stable-blue.svg?style=flat-square)](https://bhgomes.github.io/BoundedRationals.jl/stable)
+[![Latest Docs](https://img.shields.io/badge/docs-latest-blue.svg?style=flat-square)](https://bhgomes.github.io/BoundedRationals.jl/latest)
+[![Travis Build Status](https://img.shields.io/travis/com/bhgomes/BoundedRationals.jl?style=flat-square)](https://travis-ci.com/bhgomes/BoundedRationals.jl)
+[![Appveyor Build status](https://img.shields.io/appveyor/ci/bhgomes/boundedrationals-jl?style=flat-square)](https://ci.appveyor.com/project/bhgomes/boundedrationals-jl)
+[![Formatting](https://img.shields.io/badge/format-tab%204%20margin%2096-888?style=flat-square)](https://github.com/domluna/JuliaFormatter.jl)
 
 _Rational Numbers with Bounded Denominators_
 
@@ -25,6 +23,8 @@ To install, open a Julia REPL and run the following:
 ---
 <div align="center">
 
-#### [(UN)LICENSE](UNLICENSE)
-Knowledge is Freedom.
+[![Author](https://img.shields.io/badge/-bhgomes-blue?style=for-the-badge)](https://github.com/bhgomes)
+[![License](https://img.shields.io/badge/-UNLICENSE-lightgray?style=for-the-badge)](UNLICENSE)
+[![GitHub Repo](https://img.shields.io/badge/-GitHub-black?style=for-the-badge)](https://github.com/bhgomes/BoundedRationals.jl)
+
 </div>
